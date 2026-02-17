@@ -3,8 +3,7 @@
 ---
 ## Frontend Skills
 ### Core
-<img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/http.png">
-<img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png">
+<img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png"><img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png">
 <!--Frontend Developer | QA Engineer
 **inekrass/inekrass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
