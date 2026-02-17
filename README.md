@@ -1,6 +1,11 @@
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Frontend+/+Manual+QA)](https://git.io/typing-svg)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inekrass&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<!--
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Frontend+Dev+|+QA+Engineer)](https://git.io/typing-svg)
+## My name is Bogdan Nekrasov👋
+---
+## Frontend Skills
+### Core
+<img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/http.png">
+<img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png">
+<!--Frontend Developer | QA Engineer
 **inekrass/inekrass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
