@@ -1,6 +1,6 @@
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Frontend+Dev+|+QA+Engineer)](https://git.io/typing-svg) 
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=4000&vCenter=true&width=435&height=20&lines=Frontend+Dev+%7C+QA+Engineer)](https://git.io/typing-svg)
 ### My name is Bogdan Nekrasov👋
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=inekrass&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=inekrass&theme=city_lights)
 
 ## 🚀Frontend Skills
 
