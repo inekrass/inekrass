@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Frontend+Dev+|+QA+Engineer)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Frontend+Dev+|+QA+Engineer)](https://git.io/typing-svg) ![codrwars](https://www.codewars.com/users/inekrass/badges/micro) 
 ## My name is Bogdan Nekrasov👋
 
 ## 🚀Frontend Skills
