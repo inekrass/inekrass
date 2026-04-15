@@ -40,6 +40,7 @@
 ### 📋 API and integration testing
 <div>
   <img width="40" height="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png" title="Postman" alt="Postman">&nbsp
+  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/charles_proxy_macos_bigsur_icon_190302.png" title="charles" alt="charles">&nbsp
   <img width="40" height="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rest.png" title="REST API" alt="REST API">&nbsp
   <img width="40" height="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/soap.png" title="SOAP" alt="SOAP">&nbsp
   <img width="40" height="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/swagger.png" title="Swagger" alt="Swagger">&nbsp
