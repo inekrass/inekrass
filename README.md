@@ -22,13 +22,13 @@
 ### 🧪 QA Engineering
 
 #### 📋 API & Integration Testing
-`Postman` · `Charles Proxy` · `REST API` · `SOAP` · `Swagger / OpenAPI` · `Kafka`
+`Postman` · `DevTools` · `REST API` · `SOAP` · `Swagger / OpenAPI` · `Kafka`
 
 #### 👾 Web & Mobile Testing
 `Web Testing` · `Mobile Testing` · `HTTP / HTTPS` · `HTML` · `CSS` · `Charles Proxy`
 
 #### 📊 Logs & Monitoring
-`Kibana` · `Sentry` · `Grafana` · `Bash`
+`Kibana` · `Sentry` · `Grafana` · `Bash` · `Wireshark`
 
 #### 💾 Databases
 `PostgreSQL` · `ClickHouse`
